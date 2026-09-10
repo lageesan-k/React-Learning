@@ -1,0 +1,15 @@
+.App{
+  padding: 30px;
+  Margin: 20px;
+  line-height: 50px;
+}
+.heading{
+  text-align: center;
+  color:brown;
+}
+
+.sub-heading{
+  text-align: left;
+  color:blue;
+}
+ 
